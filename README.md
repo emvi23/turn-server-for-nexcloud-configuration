@@ -1,5 +1,10 @@
 # turn-server-for-nexcloud-configuration
-Script to deploy Turn server on your Nextcloud instance.
+
+Hello,
+I made this script to achieve video conferencing with my family over mobile phone internet connection.
+After testing on Debian 11 and Nextcloud 23.0.0, I was able to communicate with high quality image using Firefox on desktop and Nextcloud Talk on iPhone and Android.
+
+Run this to deploy Turn server on your Nextcloud instance.
 This script should work on Debian based distros and Nextcloud  Latest stable version: 23.0.0.
 You don't need to run this for LAN connections to use Nexcloud Talk.
 
