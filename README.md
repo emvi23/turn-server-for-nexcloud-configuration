@@ -1,6 +1,7 @@
 # turn-server-for-nexcloud-configuration
 Script to deploy Turn server on your Nextcloud instance.
 This script should work on Debian based distros and Nextcloud  Latest stable version: 23.0.0.
+You don't need to run this for LAN connections to use Nexcloud Talk.
 
 You should be root and previously heaved setup your Nextcloud server and DMZ or port-forward 3478 to you server IP.
 
