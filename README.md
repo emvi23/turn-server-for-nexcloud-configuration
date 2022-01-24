@@ -16,3 +16,4 @@ If you fail to copy you can locate the secret in the file located under /etc/tur
 After rebooting go to Web interface and login with your administrator account > Nextcloud -> Settings -> Administration -> Talk " Copy the Secret  and Go to section TURN servers -> Select turn only -> domain: FQDN:3478 -> SECRET -> TCP only " , if you see the check mark it means that is working.
 
 Enjoy!!
+https://github.com/emvi23/turn-server-for-nexcloud-configuration
